@@ -8,18 +8,18 @@ public class exercicio_3_estrutural_sequencial {
 		
 		int A, B, C, D;
 		
-		System.out.println("Digite o primeiro número: ");
+		System.out.println("Digite o primeiro nÃºmero: ");
 		A = sc.nextInt();
-		System.out.println("Digite o segundo número: ");
+		System.out.println("Digite o segundo nÃºmero: ");
 		B = sc.nextInt();
-		System.out.println("Digite o terceiro número: ");
+		System.out.println("Digite o terceiro nÃºmero: ");
 		C = sc.nextInt();
-		System.out.println("Digite o quarto número: ");
+		System.out.println("Digite o quarto nÃºmero: ");
 		D = sc.nextInt();
 		
 		int DIFERENCA = (A * B - C * D);
 		
-		System.out.println("A diferença entre esses números é: " + DIFERENCA);
+		System.out.println("A diferenÃ§a entre esses nÃºmeros Ã©: " + DIFERENCA);
 		
 		sc.close();
 
