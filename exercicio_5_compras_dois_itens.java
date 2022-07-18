@@ -8,14 +8,14 @@ public class exercicio_5_estrutura_sequencial {
 	Locale.setDefault(Locale.US);
 	Scanner sc = new Scanner(System.in);
 
-	System.out.println("Insira o código do primeiro produto: ");
+	System.out.println("Insira o cÃ³digo do primeiro produto: ");
 	int C1 = sc.nextInt();
 	System.out.println("Quantidade: ");
 	int Q1 = sc.nextInt();
 	System.out.println("Valor do produto por unidade: ");
 	double V1 = sc.nextDouble();
 	
-	System.out.println("Insira o código do segundo produto: ");
+	System.out.println("Insira o cÃ³digo do segundo produto: ");
 	int C2 = sc.nextInt();
 	System.out.println("Quantidade: ");
 	int Q2 = sc.nextInt();
