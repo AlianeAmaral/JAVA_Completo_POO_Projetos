@@ -10,13 +10,13 @@ public class exercicio_1_estrutura_sequencial {
 	int y;
 	int soma;
 
-	System.out.println("Insira o primeiro número: ");
+	System.out.println("Insira o primeiro nÃºmero: ");
 	x = sc.nextInt();
-	System.out.println("Insira o segunda número: ");
+	System.out.println("Insira o segundo nÃºmero: ");
 	y = sc.nextInt();
 	
 	soma = x + y;
-	System.out.println("A soma dos dois números é " + soma);
+	System.out.println("A soma dos dois nÃºmeros Ã© " + soma);
 	
 	sc.close();
 
