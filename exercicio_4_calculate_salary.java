@@ -10,16 +10,16 @@ public class exercicio_4_estrutura_sequencial {
 	Scanner sc = new Scanner(System.in);	
 		
 	int registration;
-	double horas, valuehour;
+	double hours, valuehour;
 	
 	System.out.println("What's your registration number?");
 	registration = sc.nextInt();
 	System.out.println("How many hours did you work?");
-	horas = sc.nextDouble();
+	hours = sc.nextDouble();
 	System.out.println("How much do you earn per hour?");
 	valuehour = sc.nextDouble();
 	
-	double salary = (horas * valuehour);
+	double salary = (hours * valuehour);
 	
 	System.out.println();
 	System.out.println("Registration: " + registration);
