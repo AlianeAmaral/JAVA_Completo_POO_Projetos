@@ -8,6 +8,7 @@ public class exercicio_2_estrutura_sequencial {
 	Locale.setDefault(Locale.US);
 	Scanner sc = new Scanner(System.in);
 	
+	System.out.println("Qual √© o raio desse c√≠rculo? ");
 	double raio = sc.nextDouble();
 	double pi = 3.14159;
 	double raio2;
@@ -16,7 +17,7 @@ public class exercicio_2_estrutura_sequencial {
 	
 	double area = pi * raio2;
 	
-	System.out.printf("A ·rea desse cÌrculo È: %.4f", area);
+	System.out.printf("A √°rea do seu c√≠rculo √©: %.4f", area);
 	
 	sc.close();
 
