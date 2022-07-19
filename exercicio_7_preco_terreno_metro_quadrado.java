@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_resolvido {
+public class exercicio_7_estrutura_sequencial {
 
 	public static void main(String[] args) {		
 	
