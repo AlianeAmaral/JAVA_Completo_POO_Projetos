@@ -16,18 +16,18 @@ public class exercicio_6_estrutura_sequencial {
 		
 		double triangulo, circulo, trapezio, quadrado, retangulo;
 		double pi = 3.14159;
-		
+		 
 		triangulo = A * C / 2;
 		circulo = (C * C) * pi;
 		trapezio = (A + B) / 2.0 * C;
 		quadrado = B * B;
 		retangulo = A * B;
 		
-		System.out.printf("A ·rea do tri‚ngulo È: %.3f %n", triangulo);
-		System.out.printf("A ·rea do cÌrculo È: %.3f %n", circulo);
-		System.out.printf("A ·rea do trapezio È: %.3f %n", trapezio);
-		System.out.printf("A ·rea do quadrado È: %.3f %n", quadrado);
-		System.out.printf("A ·rea do ret‚ngulo È: %.3f %n", retangulo);
+		System.out.printf("A √°rea do tri√¢ngulo √©: %.3f %n", triangulo);
+		System.out.printf("A √°rea do c√≠rculo √©: %.3f %n", circulo);
+		System.out.printf("A √°rea do trapezio √©: %.3f %n", trapezio);
+		System.out.printf("A √°rea do quadrado √©: %.3f %n", quadrado);
+		System.out.printf("A √°rea do ret√¢ngulo √©: %.3f %n", retangulo);
 		
 		sc.close();
 
