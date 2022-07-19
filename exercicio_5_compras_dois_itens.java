@@ -1,6 +1,6 @@
 import java.util.Locale;
 import java.util.Scanner;
-
+ 
 public class exercicio_5_estrutura_sequencial {
 
 	public static void main(String[] args) {
