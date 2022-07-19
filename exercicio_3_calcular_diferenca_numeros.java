@@ -21,7 +21,7 @@ public class exercicio_3_estrutural_sequencial {
 		
 		System.out.println("A diferença entre esses números é: " + DIFERENCA);
 		
-		sc.close();
+		sc.close(); 
 
 	}
 
