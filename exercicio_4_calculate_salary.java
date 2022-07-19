@@ -24,7 +24,7 @@ public class exercicio_4_estrutura_sequencial {
 	System.out.println();
 	System.out.println("Registration: " + registration);
 	System.out.printf("Total Salary: U$ %.2f %n", salary);
-	
+	 
 	sc.close();
 	
 	}
