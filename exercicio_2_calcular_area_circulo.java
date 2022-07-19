@@ -7,7 +7,7 @@ public class exercicio_2_estrutura_sequencial {
 	
 	Locale.setDefault(Locale.US);
 	Scanner sc = new Scanner(System.in);
-	
+	 
 	System.out.println("Qual é o raio desse círculo? ");
 	double raio = sc.nextDouble();
 	double pi = 3.14159;
