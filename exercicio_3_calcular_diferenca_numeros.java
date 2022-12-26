@@ -21,6 +21,6 @@ public class exercicio_3_calcular_diferenca_numeros {
 		
 		System.out.println("A diferença entre esses números é: " + DIFERENCA);
 		
-		sc.close(); 
+		sc.close();
 	}
 }
