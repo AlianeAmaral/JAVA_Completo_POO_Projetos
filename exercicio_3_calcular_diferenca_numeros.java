@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio_3_estrutural_sequencial {
+public class exercicio_3_calcular_diferenca_numeros {
 
 	public static void main(String[] args) {
 	
@@ -22,7 +22,5 @@ public class exercicio_3_estrutural_sequencial {
 		System.out.println("A diferença entre esses números é: " + DIFERENCA);
 		
 		sc.close(); 
-
 	}
-
 }
