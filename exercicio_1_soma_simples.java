@@ -19,7 +19,5 @@ public class exercicio_1_estrutura_sequencial {
 	System.out.println("A soma dos dois números é " + soma);
 	
 	sc.close();
-
 	}
-
 }
