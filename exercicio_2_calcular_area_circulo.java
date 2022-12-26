@@ -20,5 +20,5 @@ public class exercicio_2_calcular_area_circulo {
 	System.out.printf("A área do seu círculo é: %.4f", area);
 	
 	sc.close();
-	}
+	} 
 }
