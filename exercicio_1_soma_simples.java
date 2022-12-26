@@ -20,4 +20,4 @@ public class exercicio_1_soma_simples {
 	
 	sc.close();
 	}
-}
+} 
