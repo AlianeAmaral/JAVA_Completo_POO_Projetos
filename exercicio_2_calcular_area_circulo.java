@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_2_estrutura_sequencial {
+public class exercicio_2_calcular_area_circulo {
 
 	public static void main(String[] args) {
 	
@@ -20,7 +20,5 @@ public class exercicio_2_estrutura_sequencial {
 	System.out.printf("A área do seu círculo é: %.4f", area);
 	
 	sc.close();
-
 	}
-
 }
