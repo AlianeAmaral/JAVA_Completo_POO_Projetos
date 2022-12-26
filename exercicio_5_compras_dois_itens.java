@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
  
-public class exercicio_5_estrutura_sequencial {
+public class exercicio_5_compras_dois_itens {
 
 	public static void main(String[] args) {
 	
@@ -28,7 +28,5 @@ public class exercicio_5_estrutura_sequencial {
 	System.out.printf("TOTAL DA COMPRA: R$ %.2f %n", total);
 	
 	sc.close();
-	
 	}
-
 }
