@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class exercicio_1_estrutura_sequencial {
+public class exercicio_1_soma_simples {
 
 	public static void main(String[] args) {
 	
