@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 
-public class exercicio_4_estrutura_sequencial {
+public class exercicio_4_calculate_salary {
 
 	public static void main(String[] args) {
 		
@@ -26,7 +26,5 @@ public class exercicio_4_estrutura_sequencial {
 	System.out.printf("Total Salary: U$ %.2f %n", salary);
 	 
 	sc.close();
-	
 	}
-
 }
