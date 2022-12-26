@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_7_estrutura_sequencial {
+public class exercicio_7_preco_terreno_metro_quadrado {
 
 	public static void main(String[] args) {		
 	
@@ -23,7 +23,5 @@ public class exercicio_7_estrutura_sequencial {
 	System.out.printf("O terreno está custando no total de: %.2f reais.%n", total);
 
 	sc.close();
-
 	}
-
 }
