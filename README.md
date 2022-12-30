@@ -15,4 +15,4 @@ Sistema calcula a diferença entre dois números digitados pelo usuário.
 
 # exercicio_4_calculate_salary.java
 
-Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana.
+Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.
