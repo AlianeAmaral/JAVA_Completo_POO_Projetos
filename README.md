@@ -1,18 +1,18 @@
-## JAVA - Estruturas Sequenciais
+## 🟣 JAVA - Estruturas Sequenciais
 Exercícios de Estruturas Sequenciais em JAVA. Realizados com base no conteúdo do curso de JAVA Programação Orientada a Objetos, Prof. Nélio Alves.
 
-### exercicio_1_soma_simples.java
+### 🟢 exercicio_1_soma_simples.java
 
 Sistema soma o primeiro e o segundo número informado.
 
-### exercicio_2_calcular_area_circulo.java
+### 🟢 exercicio_2_calcular_area_circulo.java
 
 Sistema calcula a área de um círculo com base no valor do raio do círculo, informado pelo usuário.
 
-### exercicio_3_calcular_diferenca_numeros.java
+### 🟢 exercicio_3_calcular_diferenca_numeros.java
 
 Sistema calcula a diferença entre dois números digitados pelo usuário.
 
-### exercicio_4_calculate_salary.java
+### 🟢 exercicio_4_calculate_salary.java
 
 Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.
