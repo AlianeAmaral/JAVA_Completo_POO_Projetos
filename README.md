@@ -16,3 +16,7 @@ Sistema calcula a diferença entre dois números digitados pelo usuário.
 ### 🟢 exercicio_4_calculate_salary.java
 
 Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.
+
+### 🟢 exercicio_5_compras_dois_itens.java
+
+Sistema simula uma compra simples de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.
