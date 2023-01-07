@@ -20,3 +20,7 @@ Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por 
 ### 🟢 exercicio_5_compras_dois_itens.java
 
 Sistema simula uma compra simples de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.
+
+### 🟢 exercicio_6_formulas_estrutura_sequencial.java
+
+### 🟢 exercicio_7_preco_terreno_metro_quadrado.java
