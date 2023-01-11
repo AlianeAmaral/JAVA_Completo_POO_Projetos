@@ -16,7 +16,7 @@ Realizados com base no conteúdo do curso de JAVA Programação Orientada a Obje
 
 <h4>✔️ exercicio_4_calculate_salary.java</h4>
 
-<h6>Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.</h6>
+<h6>Sistema apresenta um salário mensal, com base no ganho por hora e quantas horas trabalha por semana.</h6>
 
 <h4>✔️ exercicio_5_compras_dois_itens.java</h4>
 
