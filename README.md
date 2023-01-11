@@ -16,7 +16,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 
 <h4>📚 exercicio_4_calculate_salary.java</h4>
 
-<h6>Sistema apresenta um salário mensal, com base no ganho por hora e quantas horas trabalha por semana.</h6>
+<h6>Sistema apresenta em inglês um salário mensal, com base no ganho por hora e quantas horas trabalha por semana.</h6>
 
 <h4>📚 exercicio_5_compras_dois_itens.java</h4>
 
