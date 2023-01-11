@@ -1,26 +1,31 @@
-## 🟣 JAVA - Estruturas Sequenciais
-Exercícios de Estruturas Sequenciais em JAVA. Realizados com base no conteúdo do curso de JAVA Programação Orientada a Objetos, Prof. Nélio Alves.
+## ⚜️ JAVA - Estruturas Sequenciais
+<i> Exercícios de Estruturas Sequenciais em JAVA. <br>
+Realizados com base no conteúdo do curso de JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
+##
+<h4>✔️ exercicio_1_soma_simples.java</h4>
 
-### 🟢 exercicio_1_soma_simples.java
+<h6>Sistema apresenta a soma de dois números.</h6>
 
-Sistema soma o primeiro e o segundo número informado.
+<h4>✔️ exercicio_2_calcular_area_circulo.java</h4>
 
-### 🟢 exercicio_2_calcular_area_circulo.java
+<h6>Sistema apresenta a área do círculo com base no valor do raio.</h6>
 
-Sistema calcula a área de um círculo com base no valor do raio do círculo, informado pelo usuário.
+<h4>✔️ exercicio_3_calcular_diferenca_numeros.java</h4>
 
-### 🟢 exercicio_3_calcular_diferenca_numeros.java
+<h6>Sistema apresenta a diferença entre dois números informados.</h6>
 
-Sistema calcula a diferença entre dois números digitados pelo usuário.
+<h4>✔️ exercicio_4_calculate_salary.java</h4>
 
-### 🟢 exercicio_4_calculate_salary.java
+<h6>Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.</h6>
 
-Sistema calcula o salário mensal do usuário, com base no quanto ele ganha por hora e quantas horas ele trabalha por semana, em inglês.
+<h4>✔️ exercicio_5_compras_dois_itens.java</h4>
 
-### 🟢 exercicio_5_compras_dois_itens.java
+<h6>Sistema simula uma compra de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.</h6>
 
-Sistema simula uma compra simples de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.
+<h4>✔️ exercicio_6_formulas_estrutura_sequencial.java</h4>
 
-### 🟢 exercicio_6_formulas_estrutura_sequencial.java
+<h6>Sistema calcula a área de um triângulo, círculo, trapézio, quadrado ou retângulo. Exercício de aplicação de fórmulas matemáticas.</h6>
 
-### 🟢 exercicio_7_preco_terreno_metro_quadrado.java
+<h4>✔️ exercicio_7_preco_terreno_metro_quadrado.java</h4>
+
+<h6>Sistema coleta a largura, comprimento e preço por metro quadrado de um terreno e apresenta o total de área e preço total do terreno.</h6>
