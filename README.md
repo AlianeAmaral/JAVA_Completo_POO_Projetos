@@ -1,6 +1,6 @@
 ## ⚜️ JAVA - Estruturas Sequenciais
-<i> Exercícios de Estruturas Sequenciais em JAVA. <br>
-Realizados com base no conteúdo do curso de JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
+<i>Exercícios de Estruturas Sequenciais em JAVA. <br>
+Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 ##
 <h4>✔️ exercicio_1_soma_simples.java</h4>
 
