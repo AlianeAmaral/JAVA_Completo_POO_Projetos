@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exercicio_4_calculate_salary {
+public class exercicio_4_salary {
 
 	public static void main(String[] args) {
 		
