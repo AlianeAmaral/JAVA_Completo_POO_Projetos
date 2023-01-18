@@ -19,8 +19,8 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 [📚 exercicio_5_compras_dois_itens.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_5_compras_dois_itens.java)
     <h6>Sistema simula uma compra de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.</h6>
 
-<h4>📚 exercicio_6_formulas_estrutura_sequencial.java</h4>
+[📚 exercicio_6_formulas_estrutura_sequencial.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_6_formulas_estrutura_sequencial.java)
     <h6>Sistema calcula a área de um triângulo, círculo, trapézio, quadrado ou retângulo. Exercício de aplicação de fórmulas matemáticas.</h6>
 
-<h4>📚 exercicio_7_preco_terreno_metro_quadrado.java</h4>
+[📚 exercicio_7_preco_terreno_metro_quadrado.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_7_preco_terreno_metro_quadrado.java)
     <h6>Sistema coleta a largura, comprimento e preço por metro quadrado de um terreno e apresenta o total de área e preço total do terreno.</h6>
