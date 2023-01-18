@@ -16,7 +16,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 [📚 exercicio_4_salary.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_4_salary.java)
     <h6>Sistema apresenta em inglês um salário mensal, com base no ganho por hora e quantas horas trabalha por semana.</h6>
 
-<h4>📚 exercicio_5_compras_dois_itens.java</h4>
+[📚 exercicio_5_compras_dois_itens.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_5_compras_dois_itens.java)
     <h6>Sistema simula uma compra de mercado, onde é inserido o código dos produtos e apresentado também o valor total da compra.</h6>
 
 <h4>📚 exercicio_6_formulas_estrutura_sequencial.java</h4>
