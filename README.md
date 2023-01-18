@@ -4,13 +4,11 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 
 ##
 
-<h4>📚 exercicio_1_soma_simples.java</h4>
+[📚 exercicio_1_soma_simples.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_1_soma_simples.java)
+    <h6>Sistema apresenta a soma de dois números.</h6>
 
-<h6>Sistema apresenta a soma de dois números.</h6>
-
-<h4>📚 exercicio_2_calcular_area_circulo.java</h4>
-
-<h6>Sistema apresenta a área do círculo com base no valor do raio.</h6>
+[📚 exercicio_2_calcular_area_circulo.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_2_calcular_area_circulo.java)
+    <h6>Sistema apresenta a área do círculo com base no valor do raio.</h6>
 
 <h4>📚 exercicio_3_calcular_diferenca_numeros.java</h4>
 
