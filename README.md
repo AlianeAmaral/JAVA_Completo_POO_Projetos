@@ -10,10 +10,10 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
 [📚 exercicio_2_calcular_area_circulo.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_2_calcular_area_circulo.java)
     <h6>Sistema apresenta a área do círculo com base no valor do raio.</h6>
 
-<h4>📚 exercicio_3_calcular_diferenca_numeros.java</h4>
+[📚 exercicio_3_calcular_diferenca_numeros.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_3_calcular_diferenca_numeros.java)
     <h6>Sistema apresenta a diferença entre dois números informados.</h6>
 
-<h4>📚 exercicio_4_calculate_salary.java</h4>
+[📚 exercicio_4_salary.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_4_salary.java)
     <h6>Sistema apresenta em inglês um salário mensal, com base no ganho por hora e quantas horas trabalha por semana.</h6>
 
 <h4>📚 exercicio_5_compras_dois_itens.java</h4>
