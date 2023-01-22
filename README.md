@@ -23,4 +23,4 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves. </i>
     <h6>Sistema calcula a área de um triângulo, círculo, trapézio, quadrado ou retângulo. Exercício de aplicação de fórmulas matemáticas.</h6>
 
 [📚 exercicio_7_preco_terreno_metro_quadrado.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_7_preco_terreno_metro_quadrado.java)
-    <h6>Sistema coleta a largura, comprimento e preço por metro quadrado de um terreno e apresenta o total de área e preço total do terreno.</h6>
+    <h6>Sistema coleta a largura, comprimento e preço por metro quadrado de um terreno e apresenta o total de área e preço total do terreno.</h6> 
