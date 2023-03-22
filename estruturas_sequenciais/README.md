@@ -1,4 +1,4 @@
-[📚 exercicio_1_soma_simples.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_1_soma_simples.java)
+[📚 exercicio_1_soma_simples.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/estruturas_sequenciais/exercicio_1_soma_simples.java)
     <h6>Sistema apresenta a soma de dois números.</h6>
 
 [📚 exercicio_2_calcular_area_circulo.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/exercicio_2_calcular_area_circulo.java)
