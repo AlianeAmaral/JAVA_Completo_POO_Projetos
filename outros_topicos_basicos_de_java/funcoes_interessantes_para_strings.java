@@ -26,6 +26,14 @@ public class funcoes_interessantes_para_strings {
 		System.out.println("replace('abc', 'xy'): -" + s07 + "-");
 		System.out.println("Index of 'bc': " + i);
 		System.out.println("Last index of 'bc': " + j);
+		
+		String s = "potato apple lemon";
+		
+		String[] vect = s.split(" ");
+		
+		String word1 = vect[0];
+		String word2 = vect[1];
+		String word3 = vect[2];
 
 	}
 
