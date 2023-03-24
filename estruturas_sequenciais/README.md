@@ -1,4 +1,9 @@
-[📚 exercicio_1_soma_simples.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_sequenciais/exercicio_1_soma_simples.java)
+<h2 align="center">⚜️ JAVA - Estruturas Sequenciais
+<i><h4 align="center">Assunto: Exercícios de Estruturas Sequenciais em JAVA. <br>
+Curso: JAVA Completo + Programação Orientada a Objetos + Projetos.<br>
+Tutor: Prof. Nélio Alves. </i> 
+    
+    [📚 exercicio_1_soma_simples.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_sequenciais/exercicio_1_soma_simples.java)
     <h6>Sistema apresenta a soma de dois números.</h6>
 
 [📚 exercicio_2_calcular_area_circulo.java](https://github.com/AlianeAmaral/JAVA_estruturas_sequenciais/blob/main/estruturas_sequencias/exercicio_2_calcular_area_circulo.java)
