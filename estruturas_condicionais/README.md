@@ -4,7 +4,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
  
 ## 
 
-[📚 exercicio_1_num_positivo_negativo.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/estruturas_condicionais/exercicio_1_num_positivo_negativo.java)<h6>Sistema informa se o número digitado pelo usuário é positivo, negativo ou neutro.</h6>
+[📚 exercicio_1_num_positivo_negativo.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_condicionais/exercicio_1_num_positivo_negativo.java)<h6>Sistema informa se o número digitado pelo usuário é positivo, negativo ou neutro.</h6>
 
 [📚 exercicio_2_par_impar.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_2_par_impar.java)<h6>Sistema informa se o número digitado pelo usuário é par ou ímpar.</h6>
 
