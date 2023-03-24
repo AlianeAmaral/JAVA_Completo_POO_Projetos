@@ -12,7 +12,7 @@ Curso: JAVA Programação Orientada a Objetos, Prof. Nélio Alves.</i>
 
 [📚 exercicio_4_duracao_jogo.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_condicionais/exercicio_4_duracao_jogo.java)<h6>Sistema lê a hora inicial e a hora final de um jogo, apresenta a duração do jogo, que pode começar em um dia e terminar no outro.</h6>
 
-[📚 exercicio_5_total_compra_restaurante.java](https://github.com/AlianeAmaral/JAVA_estruturas_condicionais/blob/main/exercicio_5_total_compra_restaurante.java)<h6>Sistema coleta o código do item que possui valor e quantidade, é apresentado o valor total da compra.</h6>
+[📚 exercicio_5_total_compra_restaurante.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_condicionais/exercicio_5_total_compra_restaurante.java)<h6>Sistema coleta o código do item que possui valor e quantidade, é apresentado o valor total da compra.</h6>
 
 [📚 exercicio_6_numero_intervalo.java](https://github.com/AlianeAmaral/JAVA_Completo_POO_Projetos/blob/main/estruturas_condicionais/exercicio_6_numero_intervalo.java)<h6>Sistema verifica em qual intervalo de números se encontra o número digitado pelo usuário.</h6>
 
