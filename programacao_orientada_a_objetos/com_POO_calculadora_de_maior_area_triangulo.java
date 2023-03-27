@@ -29,3 +29,17 @@ import entities.Triangle;
 
     p = (y.a + y.b + y.c) / 2.0;
     double areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+
+    System.out.printf("Triangle X area: %.4f%n", areaX);
+	  System.out.printf("Triangle Y area: %.4f%n", areaY);
+	
+	  if (areaX > areaY) {
+		  System.out.println("Larger area: X");
+  	}
+	  else {
+		  System.out.println("Larger area: Y");
+  	}
+		
+	sc.close();
+	}
+}
