@@ -1,5 +1,6 @@
 package entities;
 
+//criação da classe a seguir, para fornecer atributos a entidade que trabalhamos, pois nesse negócio trabalhamos com triângulos.
 public class Triangle {
   
   public double a;
