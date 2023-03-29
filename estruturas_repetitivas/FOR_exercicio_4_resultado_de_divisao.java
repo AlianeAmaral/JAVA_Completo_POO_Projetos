@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_4_for_resultado_de_divisao {
+public class FOR_exercicio_4_resultado_de_divisao {
 
 	public static void main(String[] args) {
 
