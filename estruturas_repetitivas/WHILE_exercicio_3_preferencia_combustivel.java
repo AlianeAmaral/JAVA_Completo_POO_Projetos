@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_3_while_preferencia_combustivel {
+public class WHILE_exercicio_3_preferencia_combustivel {
 
 	public static void main(String[] args) {
 	
