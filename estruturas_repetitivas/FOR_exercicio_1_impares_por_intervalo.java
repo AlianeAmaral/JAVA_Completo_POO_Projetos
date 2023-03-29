@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_1_for_impares_por_intervalo {
+public class FOR_exercicio_1_impares_por_intervalo {
 
 	public static void main(String[] args) {
 	
