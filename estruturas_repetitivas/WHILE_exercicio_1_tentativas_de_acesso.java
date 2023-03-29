@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_1_while_tentativas_de_acesso {
+public class WHILE_exercicio_1_tentativas_de_acesso {
 
 	public static void main(String[] args) {
 	
