@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_2_for_numeros_in_out_do_intervalo {
+public class FOR_exercicio_2_numeros_in_out_do_intervalo {
 
 	public static void main(String[] args) {
 	
