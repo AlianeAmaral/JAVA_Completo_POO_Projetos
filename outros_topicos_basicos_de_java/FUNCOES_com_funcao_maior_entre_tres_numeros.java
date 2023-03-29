@@ -1,3 +1,4 @@
+//essa é aparesentação da sintaxe com função.
 package estudos_programacao;
 import java.util.Scanner;
   
