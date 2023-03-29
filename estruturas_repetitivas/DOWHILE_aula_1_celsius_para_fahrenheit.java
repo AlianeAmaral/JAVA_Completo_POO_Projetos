@@ -3,7 +3,7 @@ package estudos_programacao;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class dowhile_conversor_de_celsius_para_fahrenheit { 
+public class DOWHILE_aula_1_celsius_para_fahrenheit { 
 
 	public static void main(String[] args) {
 
