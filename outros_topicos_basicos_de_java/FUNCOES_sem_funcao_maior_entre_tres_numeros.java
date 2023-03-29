@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class funcoes_calcular_maior_entre_tres_numeros {
+public class FUNCOES_sem_funcao_maior_entre_tres_numeros {
 
 	public static void main(String[] args) {
 		
