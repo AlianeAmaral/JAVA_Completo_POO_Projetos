@@ -2,7 +2,7 @@ package estudos_programacao;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class exercicio_2_while_leitura_de_quadrantes {
+public class WHILE_exercicio_2_leitura_de_quadrantes {
 
 	public static void main(String[] args) {
 	
