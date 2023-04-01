@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class exercicio_3_for_media_decimais {
+public class FOR_exercicio_3_media_decimais {
 
 	public static void main(String[] args) {
 	
@@ -26,9 +26,6 @@ public class exercicio_3_for_media_decimais {
 		double mediaDecimais = ((x * 2) + (y * 3) + (z * 5)) / 10;
 		System.out.printf("A média dos decimais informados é: %.1f%n", mediaDecimais);
 	}
-	
 	sc.close();
-	
 	}
-
 }
