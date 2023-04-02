@@ -1,7 +1,7 @@
 package estudos_programacao;
 import java.util.Scanner;
 
-public class POO_exercicio_2_de_apresentacao_sem_POO {
+public class POO_exercicio_2_de_apresentacao_SEM_POO {
 
 	public static void main(String[] args) {
 	
