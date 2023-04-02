@@ -2,7 +2,7 @@ package estudos_programacao;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class sem_POO_calculadora_de_maior_area_triangulo {
+public class POO_exercicio_1_de_apresentacao_SEM_POO {
 
 	public static void main(String[] args) {
 	
