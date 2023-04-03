@@ -1,7 +1,7 @@
 package controle_de_estoque;
 import java.util.Scanner;
 
-public class POO_exercicio_2_Main_Application {
+public class POO_exercicio_2_Main_Application { 
 
 	public static void main(String[] args) {
 		
