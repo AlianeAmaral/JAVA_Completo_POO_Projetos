@@ -30,7 +30,7 @@ public class POO_exercicio_2_Main_Application {
 	    	    produto.adicionar = sc.nextDouble();
 	    	    
 	    	    System.out.println("Nome do Produto: " +produto.name+ " / Preço: R$ "+produto.price+ " / Quantidade: " +produto.quantityAdd()+ " unidades. Valor Total no Estoque: R$ " +produto.totalPriceAdd());    
-		    	
+		    	 
 	    	}
 	    	else if (repetir == 'r') {
 	    	    Product produto;
