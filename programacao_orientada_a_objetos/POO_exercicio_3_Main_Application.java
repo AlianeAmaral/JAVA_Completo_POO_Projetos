@@ -3,7 +3,7 @@ import java.util.Scanner;
 import controle_de_estoque.Product;
 import java.util.Locale;
 
-public class Main_Application_DEVS {
+public class POO_exercicio_3_Main_Application {
 
 	public static void main(String[] args) {
 
