@@ -1,6 +1,6 @@
 package controle_de_estoque;
 
-public class Product {
+public class POO_exercicio_3_Product {
 
 	public String name;
 	public double price;
