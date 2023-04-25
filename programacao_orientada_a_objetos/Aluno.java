@@ -20,3 +20,13 @@ public class Aluno {
 		}
 	}
 }
+
+/*	PROJETO DE CLASSE (UML): ALUNO
+	- Name: String
+	- Grade1: double
+	- Grade2: double
+	- Grade3: double
+	
+	+ finalGrade() : double
+	+ missingPoints() : double 
+*/
