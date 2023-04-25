@@ -1,5 +1,5 @@
 package calculando_retangulos;
-
+ 
 public class Retangulo {
 
 	public double width;
