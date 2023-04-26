@@ -15,9 +15,5 @@ public class Retangulo {
 	
 	public double diagonal() {
 		return Math.sqrt (width * width + height * height);
-	}
-
-		
+	}		
 }
-	
-
