@@ -27,5 +27,4 @@ public class versao_2_dados_de_esfera {
 	sc.close();
 	
 	}
-	
 }
